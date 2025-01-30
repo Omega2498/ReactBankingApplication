@@ -1,2 +1,1 @@
-# ReactBankingApplication
-Demo banking application
+# simpleBanking
